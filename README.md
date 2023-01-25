@@ -1,9 +1,6 @@
 # IITMOP_Convolve
 Files for convolve finals
-@inproceedings{akbik2018coling,
-  title={Contextual String Embeddings for Sequence Labeling},
-  author={Akbik, Alan and Blythe, Duncan and Vollgraf, Roland},
-  booktitle = {{COLING} 2018, 27th International Conference on Computational Linguistics},
-  pages     = {1638--1649},
-  year      = {2018}
-}
+
+
+[FLAIR: An Easy-to-Use Framework for State-of-the-Art NLP](https://aclanthology.org/N19-4010) (Akbik et al., NAACL 2019)
+
